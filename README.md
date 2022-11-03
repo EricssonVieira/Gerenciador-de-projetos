@@ -8,4 +8,6 @@ Esse projeto tem o objetivo de dar o total controle de tudo o que esta acontecen
 
 Router, Routes, Route,Link <br/>
 Props <br/>
-React Icons
+React Icons <br/>
+Promise <br/>
+Fetch Api
